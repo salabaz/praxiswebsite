@@ -10,7 +10,7 @@ layout: page
 Die Bestellung ist **telefonisch** oder per **Email** möglich.  
 
 Eine Bestellung ist nur für Medikamente möglich, die auf ihrem **Medikamentenplan** stehen.  
-Beachten sie bitte auch, dass keine Medikamente "auf Vorrat" bestellt werden können.
+Beachten Sie bitte auch, dass keine Medikamente "auf Vorrat" bestellt werden können.
 
 Geben Sie bitte immer 
 - Ihren vollständigen Namen
@@ -24,7 +24,7 @@ Wenn etwas unklar ist, melden wir uns bei Ihnen. Daher ist es wichtig, dass in d
 
 Die Rezepte können am **folgenden Tag ab 13:00 Uhr** als eRezept in der Apotheke eingelöst werden.
 
-Einmal im Quartal benötigen wir ihre **Krankenversichtertenkarte**. Rezepte können erst nach Einlesen der Krankenversichterenkarte versendet werden.
+Einmal im Quartal benötigen wir Ihre **Krankenversichtertenkarte**. Rezepte können erst nach Einlesen der Krankenversichertenkarte versendet werden.
 
 # Verordnungen "auf Kasse"
 Einige Medikamente können nicht auf Kosten der Krankenkassen verordnet werden und müssen selbst bezahlt werden.
