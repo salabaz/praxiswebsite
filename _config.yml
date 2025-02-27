@@ -1,5 +1,5 @@
-url: 'https://salabaz.github.io/praxiswebsite/'
-baseurl: '/.'
+url: 'https://salabaz.github.io/'
+baseurl: 'praxiswebsite/.'
 permalink: pretty
 title: 'Hausarztpraxis Braumann'
 
