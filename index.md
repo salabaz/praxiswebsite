@@ -10,6 +10,5 @@ intro_image_hide_on_mobile: true
 # Herzlich Willkommen
 in der Hausarztpraxis Jemina und Philipp Braumann.
 
-### Weihnachtsurlaub
-Bitte beachten sie unsere [Urlaubszeiten](/urlaub) über Weihnachten und Silvester.
-
+## Praxis geschlossen
+Am **25.3.2025** ist die Praxis geschlossen. In dringenden Fällen wenden Sie sich bitte an Frau Dr. Müller (08654 1502).
