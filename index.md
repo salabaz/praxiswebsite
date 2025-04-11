@@ -11,4 +11,7 @@ intro_image_hide_on_mobile: true
 in der Hausarztpraxis Jemina und Philipp Braumann.
 
 ## Praxis geschlossen
-Am **25.3.2025** ist die Praxis geschlossen. In dringenden Fällen wenden Sie sich bitte an Frau Dr. Müller (08654 1502).
+Vom **14.4. - 20.4** ist die Praxis geschlossen. In dringenden Fällen wenden Sie sich bitte an Frau Dr. Plutta in Freilassing, Watzmannstr. 27, Tel. 08654 67629.
+
+Termine für nach dem Praxisurlaub können weiter online gebucht werden.
+
