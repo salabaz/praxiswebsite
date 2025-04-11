@@ -9,7 +9,7 @@ layout: page
 # Urlaub 2025
 Zu folgenden Zeiten ist die Praxis geschlossen:
 - 25.3
-- 14.4. - 20.4
+- 14.4. - 21.4
 - 2.5
 - 30.5
 - 9.6. - 22.6
