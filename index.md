@@ -17,6 +17,8 @@ Die Vertretung übernehmen folgende Praxen:
 - vom 25.08 bis 05.09 Dr. Haunstetter in Freilassing (08654-2969)
 - Die Vertretung für die Substitutionstherapie übernimmt Herr Dr. Tanzer in Bad Reichenhall (08651-9009800)
 
+
 Terminbuchungen während des Urlaubes sind online weiter möglich.
+
 
 **Wir nehmen gerne neue Patienten auf!**
