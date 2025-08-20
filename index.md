@@ -22,3 +22,5 @@ Terminbuchungen während des Urlaubes sind online weiter möglich.
 <br>
 <br>
 **Wir nehmen gerne neue Patienten auf!**
+<br>
+<br>
