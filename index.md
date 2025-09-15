@@ -10,7 +10,6 @@ intro_image_hide_on_mobile: true
 # Herzlich Willkommen
 in der Hausarztpraxis Jemina und Philipp Braumann.
 
-## Neupatienten
 **Wir nehmen gerne neue Patienten auf!**
 <br>
 <br>
