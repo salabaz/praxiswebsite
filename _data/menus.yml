@@ -4,10 +4,13 @@ main:
     weight: 1
   - name: "Ärzte"
     url: "/team/"
-    weight: 3
+    weight: 4
   - name: "Rezepte"
     url: "/rezepte/"
     weight: 2
+  - name: "PatMed"
+    url: "/patmed/"
+    weight: 3
   - name: "Öffnungszeiten"
     url: "/oeffnungszeiten/"
     weight: 5
