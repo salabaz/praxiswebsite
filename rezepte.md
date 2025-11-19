@@ -7,7 +7,7 @@ layout: page
 ---
 # Rezeptbestellung
 
-Die Bestellung ist **telefonisch**, per **Email**, oder über unsere Patienten-App **PatMed** möglich.  
+Die Bestellung ist **telefonisch**, per **Email**, oder über unsere Patienten-App [**PatMed**](patmed.md) möglich.  
 
 Eine Bestellung ist nur für Medikamente möglich, die auf ihrem **Medikamentenplan** stehen.  
 Beachten Sie bitte auch, dass keine Medikamente "auf Vorrat" bestellt werden können.
