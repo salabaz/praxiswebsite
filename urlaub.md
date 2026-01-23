@@ -6,11 +6,9 @@ weight: 1
 layout: page
 ---
 
-# Urlaub 2025
+# Urlaub 2026
 Zu folgenden Zeiten ist die Praxis geschlossen:
-- 25.3
-- 14.4. - 21.4
-- 2.5
-- 30.5
-- 9.6. - 22.6
-- 21.8. - 5.9.
+- 16.-20.2.2026
+- 7.-10.4.2026
+- 1.-5.6.2026
+- 3.-21.8.2026
