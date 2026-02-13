@@ -10,6 +10,8 @@ intro_image_hide_on_mobile: true
 # Herzlich Willkommen
 in der Hausarztpraxis Jemina und Philipp Braumann.
 
+In der Woche vom 16.2.-20.2. bleibt die Praxis wegen Urlaub geschlossen.
+
 **Wir nehmen gerne neue Patienten auf!**
 <br>
 <br>
