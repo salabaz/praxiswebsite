@@ -12,7 +12,7 @@ in der Hausarztpraxis Jemina und Philipp Braumann.
 
 In der Woche vom 16.2.-20.2. bleibt die Praxis wegen Urlaub geschlossen.
 
-Die Vertretung übernimmt Frau Dr. Müller (Tel 08654 1502 - Josef-Brendle-Straße 8, 83395 Freilassing).
+Die Vertretung übernimmt Frau Dr. Voicu (Tel 08654 1502 - Josef-Brendle-Straße 8, 83395 Freilassing).
 
 **Wir nehmen gerne neue Patienten auf!**
 <br>
