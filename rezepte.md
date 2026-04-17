@@ -10,10 +10,10 @@ layout: page
 Die Bestellung ist **telefonisch**, per [**Email**](mailto:rezepte@praxis-braumann.de), oder über unsere Patienten-App [**PatMed**](patmed.md) möglich.  
 
 ## Telefonisch
-Sie erreichen unseren Rezept-Anrufbeantworten rund um die Uhr unter unserer Telefonnummer 08654 1619. Geben Sie bitte immer
+Sie erreichen unseren Rezept-Anrufbeantworter rund um die Uhr unter unserer Telefonnummer 08654 1619. 
 
 ## Email
-Soe können Rezepte per Email über unsere Emailadresse [rezepte@praxis-braumann.de](mailto:rezepte@praxis-braumann.de) bestellen.
+Sie können Rezepte per Email über unsere Emailadresse [rezepte@praxis-braumann.de](mailto:rezepte@praxis-braumann.de) bestellen.
 
 ## Patmed
 Am einfachsten ist eine Bestellung über unsere Patientenapp [**PatMed**](patmed.md). In der App werden alle Medikamente angezeigt, die auf Ihrem Medikamentenplan stehen und schon einmal von uns verordnet wurden. Mit wenigen Klicks können Sie die Medikamente nachbestellen.
@@ -21,7 +21,7 @@ Am einfachsten ist eine Bestellung über unsere Patientenapp [**PatMed**](patmed
 Den benötigten QR-Code erhalten Sie in der Praxis.
 
 ## Ablauf
-Eine Bestellung ist nur für Medikamente möglich, die auf ihrem **Medikamentenplan** stehen.  
+Eine Bestellung ist nur für Medikamente möglich, die auf Ihrem **Medikamentenplan** stehen.  
 
 Geben Sie bitte bei Bestellung per Email oder Telefon immer 
 - Ihren vollständigen Namen
