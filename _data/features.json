@@ -46,9 +46,9 @@
                     <tr>
                      <td>Email</td><td align='left'>info@praxis-braumann.de</td>
                     </tr>
-	  	     // <tr align='left'>
-         //             <td valign='top'>Fax</td><td>08654 776060</td>
-         //            </tr>
+	  	      <!-- <tr align='left'>
+                      <td valign='top'>Fax</td><td>08654 776060</td>
+                     </tr> -->
                     <tr align='left'>
                      <td valign='top'>Anschrift</td><td>Reichenhaller Straße 15<br> 83395 Freilassing</td>
                     </tr>
