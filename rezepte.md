@@ -13,7 +13,7 @@ Die Bestellung ist **telefonisch**, per [**Email**](mailto:rezepte@praxis-brauma
 Sie erreichen unseren Rezept-Anrufbeantworten rund um die Uhr unter unserer Telefonnummer 08654 1619. Geben Sie bitte immer
 
 ## Email
-Soe können Rezepte per Email über unsere Emailadresse [rezepte@praxis-braumann.de(mailto:rezepte@praxis-braumann.de) bestellen.
+Soe können Rezepte per Email über unsere Emailadresse [rezepte@praxis-braumann.de](mailto:rezepte@praxis-braumann.de) bestellen.
 
 ## Patmed
 Am einfachsten ist eine Bestellung über unsere Patientenapp [**PatMed**](patmed.md). In der App werden alle Medikamente angezeigt, die auf Ihrem Medikamentenplan stehen und schon einmal von uns verordnet wurden. Mit wenigen Klicks können Sie die Medikamente nachbestellen.
@@ -23,12 +23,12 @@ Den benötigten QR-Code erhalten Sie in der Praxis.
 ## Ablauf
 Eine Bestellung ist nur für Medikamente möglich, die auf ihrem **Medikamentenplan** stehen.  
 
-Geben Sie bitte immer bei Bestellung bei Email oder Telefon
+Geben Sie bitte bei Bestellung per Email oder Telefon immer 
 - Ihren vollständigen Namen
 - Ihr Geburtsdatum
 - eine Rückrufnummer
-- und den Namen des Medikamentes mit Stärke an. 
-Bei Bestellung über Patmed ist das nicht notwendig.
+- und den Namen aller Medikamente mit Stärke an
+Bei Bestellung über Patmed ist dies nicht notwendig.
 
 Herr oder Frau Braumann prüfen Ihre Bestellungen und verschicken sie anschließend als eRezept. 
 Wenn etwas unklar ist, melden wir uns bei Ihnen. Daher ist es wichtig, dass in der Praxis Ihre aktuelle Telefonnummer hinterlegt ist.
