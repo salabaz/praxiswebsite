@@ -4,27 +4,45 @@
     "description": "<table>
                     <tr>
                      <td>Mo - Fr&emsp;</td><td>&ensp;8.00 - 12.00</td>
-                    </tr> 
+                    </tr>
                     <tr>
                      <td>Mo</td><td>13.30 - 16.00</td>
-                    </tr> 
+                    </tr>
                     <tr>
                      <td>Do</td><td>13.30 - 18.00</td>
                     </tr>
                     </table>
 	  <br>
-	            
+
      		    ",
     "image": "images/features/time.svg"
   },
   {
+    "title": "Telefonzeiten",
+    "description": "<table>
+                    <tr>
+                     <td>Mo - Fr&emsp;</td><td>&ensp;8.30 - 11.00</td>
+                    </tr>
+                    <tr>
+                     <td>Mo</td><td>13.30 - 15.30</td>
+                    </tr>
+                    <tr>
+                     <td>Do</td><td>13.30 - 17.30</td>
+                    </tr>
+                    </table>
+	  <br>
+
+     		    ",
+    "image": "images/features/telefon.svg"
+  },
+  {
     "title": "Kontakt",
-    "description": "	
-    
-    		<table> 
+    "description": "
+
+    		<table>
 		    <tr>
                      <td  style='width:80px'>Telefon</td><td align='left'>08654 1619</td>
-                    </tr> 
+                    </tr>
                     <tr>
                      <td>Email</td><td align='left'>info@praxis-braumann.de</td>
                     </tr>
