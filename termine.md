@@ -24,8 +24,7 @@ Bei lebensbedrohlichen Notfällen wählen Sie bitte umgehend die 112. Medizinisc
 ### Akuttermine
 	
 Für akute Erkrankungen halten wir jeden Tag Termine zwischen 11.00 und 12.00 Uhr frei.  
-Damit können Sie bei einer akuten Erkrankung auf jeden Fall am selben Tag einen Termin bekommen.  
-Dafür müssen sie aber vor 11.00 Uhr melden.  
+Damit können Sie bei einer akuten Erkrankung auf jeden Fall am selben Tag einen Termin bekommen, wenn Sie sich vor 11.00 Uhr melden.  
 Da zum Akuttermin nicht viel Zeit ist, können wir nur kurz Ihr aktuelles Anliegen abklären. Falls Sie weitere Anliegen haben, buchen Sie dafür bitte einen regulären Termin.
  
 ### Telefonische Krankmeldung
@@ -51,10 +50,6 @@ Normale Termine können Sie bei Frau Braumann oder Herr Braumann buchen. Normale
 
 ### Erstvorstellung Neupatient
 	
-Wenn Sie in unsere Praxis wechseln wollen, möchten wir sie gerne kennen lernen. Nach Buchung des Termins bekommen Sie einen Anamnesebogen zugesandt, den Sie zu Hause oder in der Praxis ausfüllen können.  
+Wenn Sie in unsere Praxis wechseln wollen, möchten wir Sie gerne kennen lernen. Nach Buchung des Termins bekommen Sie einen Anamnesebogen zugesandt, den Sie zu Hause oder in der Praxis ausfüllen können.  
 Zudem bitten wir Sie, alle Vorbefunde, Medikationspläne und den Impfausweis zum Termin mitzubringen. 
 Wenn Sie unter mehreren Krankheiten leiden oder mehr als 5 Medikamente einnehmen, lassen Sie bitte ihre Unterlagen 1 Woche vor dem Termin in der Praxis einscannen. Die Ärzte können dann ihre Vorbefunde schon einmal durchschauen, um beim Termin ein besseres Bild Ihrer Krankheitsgeschichte zu haben.
-
-
-
-

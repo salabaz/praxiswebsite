@@ -35,4 +35,4 @@ Wenn etwas unklar ist, melden wir uns bei Ihnen. Daher ist es wichtig, dass in d
 
 Die Rezepte können am **folgenden Tag ab 13:00 Uhr** als eRezept in der Apotheke eingelöst werden.
 
-Einmal im Quartal benötigen wir Ihre **Krankenversichtertenkarte**. Rezepte können erst am Tag nach dem Einlesen der Krankenversichertenkarte versendet werden.
+Einmal im Quartal benötigen wir Ihre **Krankenversichertenkarte**. Rezepte können erst am Tag nach dem Einlesen der Krankenversichertenkarte versendet werden.
