@@ -46,7 +46,8 @@ Für die Bestätigung des Masern-Impfschutzes ist normalerweise kein extra Attes
 - GOÄ 8 - Ganzkörperuntersuchung: 34,86€ - 53,04€
 - GOÄ 75 - schriftlicher Bericht: 17,43€
 - oder GOÄ 80 - Schriftliche gutachterliche Äußerung: 40,22€ (wenn eine Eignung festgestellt werden soll)
-- GOÄ 250 - Blutabnahme: 4,20€ - 5,83€ + GOÄ 4385 - Masern-Virus-IgG: 13,99€ (wenn keine zwei Masernimpfungen vorliegen)
+- GOÄ 250 - Blutabnahme: 4,20€ - 5,83€
+  - GOÄ 4385 - Masern-Virus-IgG: 13,99€ (wenn keine zwei dokumentierten Masernimpfungen vorliegen)
 - **Gesamt ca. 30€ (z.B. nur Impfbescheinigung) - ca. 90€ (z.B. Feststellung der gesundheitlichen Eignung zum Beruf)**
 
 ### Schulatteste
@@ -108,7 +109,7 @@ Meist raten wir von der zusätzlichen Bestimmung weiterer Laborwerte ab, für di
 - einmalig kostenlose Beratung für HzV-Patienten
 
 ### "Abnehmspritze"
-Ab einem BMI von 30 sind GLP-1-Analoga wie Wegovy und Mounjaro bei Adipositas zugelassen. Wir Verordnen Wegovy und Mounjaro, wenn die Voraussetzungen dafür vorliegen. Die Medikamente selbst und die Beratung dazu muss wird nicht von der Krankenkasse übernommen. Während der Aufdosierungsphase sind Gespräche ca. alle 4 Wochen notwendig, anschließend seltener.
+Ab einem BMI von 30 sind GLP-1-Analoga wie Wegovy und Mounjaro bei Adipositas zugelassen. Wir verordnen Wegovy und Mounjaro, wenn die Voraussetzungen dafür vorliegen. Die Medikamente selbst und die Beratung dazu  wird nicht von der Krankenkasse übernommen. Während der Aufdosierungsphase sind Gespräche ca. alle 4 Wochen notwendig, anschließend seltener.
 Bei Diebetes mellitus (Zucker) erfolgt die Behandlung mit GLP-1-Analoga selbstverständlich auf Kassenkosten im Rahmen der normalen Behandlung ohne zusätzliche Kosten.
 
 - Erstgespräch: 
