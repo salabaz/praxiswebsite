@@ -29,6 +29,9 @@ $sub-footer-text-color: $white;
 // Fonts - Self-hosted
 @import 'fonts';
 
+// Components - Fonts
+// Note: The @font-face rules are in _sass/fonts.scss
+
 // Bootstrap
 @import 'bootstrap-variables';
 @import 'bootstrap/bootstrap-reboot';
