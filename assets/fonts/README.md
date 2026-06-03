@@ -2,27 +2,28 @@
 
 This directory contains self-hosted WOFF2 font files to avoid external requests to fonts.google.com.
 
-## Required Files
+## Required File
 
-Download these files and place them in this directory:
+**Playfair Display uses a variable font** where both weights (400 Regular and 700 Bold) are included in a single WOFF2 file.
 
-1. **playfair-display-400-latin.woff2**
-   - Source: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2
-   - Weight: 400 (Regular)
-   - Unicode range: Latin
+Download this file and place it in this directory:
 
-2. **playfair-display-700-latin.woff2**
-   - Source: https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDYgA.woff2
-   - Weight: 700 (Bold)
-   - Unicode range: Latin
+### playfair-display-latin.woff2
+- **Source:** https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2
+- **Contains:** Weights 400 (Regular) and 700 (Bold)
+- **Unicode range:** Latin
 
 ## How to Download
 
-1. Open the URLs above in your browser
-2. Save the files with the exact names specified above
-3. Place them in this directory
+1. Open the URL above in your browser
+2. Save the file as `playfair-display-latin.woff2`
+3. Place it in this directory
 4. Commit and push the changes
 
 ## Reference
 
-These fonts are referenced in `assets/css/_fonts.scss` with @font-face rules.
+This font is referenced in `assets/css/_fonts.scss` with a single @font-face rule that covers both weights (400 700).
+
+## Note
+
+Google Fonts serves Playfair Display as a variable font. The single WOFF2 file contains both the Regular (400) and Bold (700) weights, which is why the original Google Fonts CSS had the same URL for both @font-face rules.
