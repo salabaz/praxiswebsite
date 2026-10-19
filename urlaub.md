@@ -12,3 +12,4 @@ Zu folgenden Zeiten ist die Praxis geschlossen:
 - 7.-10.4.2026
 - 1.-5.6.2026
 - 3.-21.8.2026
+- 2.11.-6.11.2026
