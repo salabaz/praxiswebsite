@@ -1,0 +1,31 @@
+name: Jekyll build
+
+on:
+  pull_request:
+  push:
+    branches: [online]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: jekyll build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+
+      - name: Install dependencies
+        run: bundle install --jobs 4 --retry 3
+
+      - name: Build site
+        run: bundle exec jekyll build --trace
+        env:
+          JEKYLL_ENV: production
+
+      - name: Check that the homepage was rendered
+        run: test -f _site/index.html
