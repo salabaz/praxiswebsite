@@ -11,6 +11,9 @@ _site/
 Gemfile.lock
 **/Gemfile.lock
 
+# Agent issue tracker (local markdown)
+.scratch/
+
 # Temporary files
 tmp
 .DS_Store
