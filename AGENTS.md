@@ -2,6 +2,19 @@
 
 Guidance for AI coding agents working in this repo.
 
+## Branch and deployment
+
+`online` is the only long-lived branch. GitHub Pages builds from it and serves
+`https://praxis-braumann.de`; **a merge to `online` is a deploy.**
+
+- Never commit to `online` directly. Branch off it (`content/…`, `fix/…`,
+  `chore/…`), open a pull request, merge the pull request.
+- Every pull request should pass the `jekyll build` check
+  (`.github/workflows/jekyll-build.yml`). Run `bundle exec jekyll build`
+  locally when you can.
+- Keep branches short-lived and delete them after merge. There is no staging
+  branch; do not reintroduce one without a deploy target for it.
+
 ## Agent skills
 
 ### Issue tracker
